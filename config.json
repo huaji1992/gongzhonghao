@@ -23,7 +23,7 @@
   "baidu_translate_app_key": "F4YxDdGq3O79wTdrTKis8Fc9",
   "channel_type": "wechatmp_service",     
   "wechatmp_token": "R9jF8Dnw89yIcf999Kn1jV89BJ91YBNV",       
-  "wechatmp_port": "8090",         
+  "wechatmp_port": "80",         
   "wechatmp_app_id": "wx7e6e7491dacef061",
   "wechatmp_app_secret": "b4930efe933962e0610bdef8c0c17bee",
   "wechatmp_aes_key": "yhRYrHYgygPrgR7rhN7RHRhh9PY3PR67Rgy6R6M0Ghr",
